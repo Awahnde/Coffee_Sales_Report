@@ -79,5 +79,27 @@ Explore the Data with pivot tables:
 Coffee Sales Dashboard 
 <img width="1700" height="622" alt="image" src="https://github.com/user-attachments/assets/5747d102-7191-4016-9f3a-227ffc0bfea6" />
 
-## Recommendations
+[Click link to access dashboard](https://1drv.ms/x/c/0192109586c2917a/IQBXg51c6g0VQKmctVAIkgfQAaLIO8jBCoy_IQDEGRNsbtk)
+
+### 1. Revenue Growth Analysis
+
+Insight: Revenue demonstrated steady growth from January to June 2023, peaking at $166,486 in June which indicates successful seasonal strategies or expanded customer acquisition.
+
+#### Recommendation: 
+Allocate 15% of June peak revenue toward Q3 marketing campaigns targeting summer customers while scaling inventory planning based on the established upward trajectory.
+
+### 2. Peak Day Performance
+
+Insight: Transaction volumes peak consistently on Thursday (21,654 orders) and Friday (21,701 orders), with Monday (21,643) showing strong secondary demand—revealing clear midweek operational patterns.
+
+#### Recommendation: 
+Implement flexible staffing model increasing capacity by 25% on Thu/Fri peak shifts; establish automated inventory replenishment triggers activated 48 hours prior to high-demand days.
+
+### 3. Morning Rush Optimization
+
+Insight: 7-10 AM captures highest transaction density while 8 PM sees minimal activity (603 orders)—presenting clear opportunities for capacity reallocation.
+
+#### Recommendation: 
+Launch "Morning Brew Bundle" campaign (07:00-10:00) with 15% discount combos plus geo-targeted mobile ads; trial 19:00 closing time on low-demand days with A/B testing to validate revenue impact before permanent implementation.
+
 
